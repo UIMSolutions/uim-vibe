@@ -1,0 +1,12 @@
+.git
+.gitignore
+.kube
+k8s
+*.o
+*.obj
+*.exe
+*.pdb
+*.a
+*.lib
+.dub/
+.cache/

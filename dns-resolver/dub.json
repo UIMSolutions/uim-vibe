@@ -1,0 +1,11 @@
+{
+  "name": "dns-resolver",
+  "description": "DNS Resolver demo with cache and recursive trace using D + vibe.d",
+  "license": "MIT",
+  "authors": [
+    "oz"
+  ],
+  "dependencies": {
+    "vibe-d": "~>0.10.2"
+  }
+}

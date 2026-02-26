@@ -1,0 +1,11 @@
+{
+  "name": "application-portfolio",
+  "description": "Application Portfolio Management web app using D and vibe.d",
+  "license": "MIT",
+  "authors": [
+    "oz"
+  ],
+  "dependencies": {
+    "vibe-d": "~>0.10.2"
+  }
+}

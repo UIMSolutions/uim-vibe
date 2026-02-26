@@ -1,0 +1,11 @@
+{
+  "name": "requirements-web",
+  "description": "Wiki web application using D and vibe.d",
+  "license": "MIT",
+  "authors": [
+    "oz"
+  ],
+  "dependencies": {
+    "vibe-d": "~>0.10.2"
+  }
+}
